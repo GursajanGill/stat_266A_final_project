@@ -1,0 +1,6 @@
+project:
+  type: default
+  render:
+    - Final_Report.qmd
+  # runs code chunks from the folder with relative paths
+  execute-dir: project
